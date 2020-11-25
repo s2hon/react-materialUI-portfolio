@@ -1,0 +1,24 @@
+[
+    {
+    "id": 1,
+    "title": "The Hunger Game",
+    "demo": "https://drive.google.com/file/d/1OD0cxe_FVuOILtEayJF-MxUX_Hd0o8ds/preview",
+    "deployed": "https://s2hon.github.io/TheHungerGame/",
+    "github": "https://github.com/s2hon/project1group5",
+    "technologies": [
+        "HTML5/CSS",
+        "JavaScript"
+    ]
+    },
+    {
+    "id": 2,
+    "title": "EarBud",
+    "demo": "https://drive.google.com/file/d/1QPV4gcR3Z_h3LF2c8nQq1Qm0G7qs_oVK/preview",
+    "deployed": "https://earbudteam8.herokuapp.com/",
+    "github": "https://github.com/s2hon/EARBUD",
+    "technologies": [
+        "Foundation",
+        "Node.JS"
+    ]
+    }
+]

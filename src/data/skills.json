@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "CSS"
+    },
+    {
+        "id": 2,
+        "name": "HTML"
+    },
+    {
+        "id": 3,
+        "name": "React"
+    },
+    {
+        "id": 4,
+        "name": "JQuery"
+    },
+    {
+        "id": 5,
+        "name": "Material-UI"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript"
+    },
+    {
+        "id": 7,
+        "name": "MySQL"
+    },
+    {
+        "id": 8,
+        "name": "MongoDB"
+    },
+    {
+        "id": 9,
+        "name": "Node.js Express"
+    }
+]
