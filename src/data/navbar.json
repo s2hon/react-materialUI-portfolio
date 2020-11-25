@@ -1,0 +1,26 @@
+[
+    {
+    "id": 1,
+    "fa": "far fa-doler-open",
+    "name": "Resume",
+    "link": "./resume.pdf"
+    },
+    {
+    "id": 2,
+    "fa": "fas fa-envelope-open-text",
+    "name": "Email",
+    "link": "mailto:staci.shon@gmail.com"
+    },
+    {
+    "id": 3,
+    "fa": "fab fa-github-square",
+    "name": "GitHub",
+    "link": "https://github.com/s2hon"
+    },
+    {
+    "id": 4,
+    "fa": "fab fa-linkedin",
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/staci-shon/"
+    }
+]
