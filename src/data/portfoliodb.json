@@ -20,5 +20,17 @@
         "Foundation",
         "Node.JS"
     ]
+    },
+        {
+    "id": ,
+    "title": "Sushi Junai",
+    "demo": "https://drive.google.com/file/d/14pKf8vaIuAcKK5oCGIco0V-FlWOLjLml/view?usp=sharingw",
+    "deployed": "https://sushi-junai.herokuapp.com/",
+    "github": "https://github.com/s2hon/sushi-junai",
+    "technologies": [
+        "React.JS",
+         "React",   
+        "Node.JS"
+    ]
     }
 ]
